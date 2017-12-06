@@ -1,0 +1,21 @@
+{
+  "name": "fuse-box-965",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node fuse.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fuse-box": "^3.0.0-next.32"
+  },
+  "devDependencies": {
+    "less": "^2.7.3",
+    "postcss": "^6.0.14",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.2"
+  }
+}
